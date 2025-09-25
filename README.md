@@ -3,7 +3,7 @@
 **`Analista de Testes manuais e Automatizados`**
 
 Me chamo Pâmela, sou Analista de Testes com experiência sólida em qualidade de software, atuando com testes funcionais manuais e automatizados em aplicações Web, API e Mobile. Já participei de projetos de grande porte no setor de Telecom, com entregas relevantes para a VIVO.
-Tenho domínio de ferramentas como Cypress, Postman, SoapUI e JMeter, além de facilidade em interpretar documentação técnica e transformar requisitos em cenários de testes bem estruturados. Participo ativamente de cerimônias ágeis e gosto de compartilhar conhecimento com o time.
+Tenho domínio de ferramentas como Playwright, Cypress, Cucumber, Ruby, Postman, SoapUI e JMeter, além de facilidade em interpretar documentação técnica e transformar requisitos em cenários de testes bem estruturados. Participo ativamente de cerimônias ágeis e gosto de compartilhar conhecimento com o time.
 Sou formada em Técnico em Informática e atualmente curso Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia, estou sempre em busca de evolução, estudando novas abordagens e adquirindo certificações.
 📎 Conecte-se comigo no LinkedIn "[Pamela Umbuzeiro](www.linkedin.com/in/pâmela-umbuzeiro-monteiro-souza)"
 
@@ -136,6 +136,31 @@ Sou formada em Técnico em Informática e atualmente curso Análise e Desenvolvi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHubActions" 
+    title="GitHubActions"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
+/>
+
 
 <br/>
 <br/>
